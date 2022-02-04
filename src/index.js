@@ -5,7 +5,7 @@ import {
   Route
 } from "react-router-dom";
 import App from "./App";
-import Cars from "./pags/cars";
+import Cars from "./pages/cars";
 //import Car from "./pages/car";
 
 
